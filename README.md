@@ -1,8 +1,13 @@
- # CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
-  ## AIM
+# CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
+## AIM
        To Create S3 bucket and EC2 Instances for Linux and Windows.
 ## PROBLEM STATEMENT
-    This experiment demonstrates the process of setting up cloud infrastructure on AWS by creating an S3 bucket for storage and EC2 instances to host Linux and Windows environments. The goal is to provide an overview of how to configure and interact with these resources effectively, along with commands and screenshots to document the process.
+
+This experiment demonstrates the process of setting up cloud infrastructure on AWS by 
+creating an S3 bucket for storage and EC2 instances to host Linux and Windows environments.
+The goal is to provide an overview of how to configure and interact with these resources 
+effectively, along with commands and screenshots to document the process.
+
 ## ALGORITHM :
 
 #### Step 1:
@@ -52,8 +57,5 @@ Connect to the Windows instance using RDP.
 #### EC2 Windows and connection using rdp
 ![EC2 WINDOWS remote connection](ec2_windows.png)
 ## RESULT
-    Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
-
-  
-
-
+Successfully created an S3 bucket and EC2 instances for both Linux and 
+Windows,demonstrating cloud resource management on AWS.
